@@ -164,8 +164,7 @@ The database can answer:
 
 ---
 
-## Tools Used
+## relation diagram 
+<img width="1066" height="800" alt="Screenshot 2026-04-24 000805" src="https://github.com/user-attachments/assets/92cc75b3-1e9b-48ef-b55e-0c3081922e1a" />
 
-- MySQL
-- MySQL Workbench
-- SQL
+
