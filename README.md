@@ -1,8 +1,7 @@
 # Online Food Delivery Management System
 
 ## Project Overview
-The Online Food Delivery Management System is a relational database project designed to simulate the backend database of a food delivery platform.  
-It manages customers, restaurants, menu items, delivery agents, orders, ordered items, and payments.
+The Online Food Delivery Management System is a relational database project developed to simulate the core backend operations of a modern food delivery platform. The system is designed to efficiently store and manage customer information, restaurant details, menu catalogs, delivery agent assignments, order processing, and payment transactions. By establishing relationships between multiple entities using primary and foreign keys, the project demonstrates how structured databases can support real-world business workflows such as order tracking, revenue monitoring, and customer activity analysis within a food delivery ecosystem.
 
 This project demonstrates:
 - relational database design
@@ -12,19 +11,6 @@ This project demonstrates:
 - aggregate functions
 - subqueries
 - analytical SQL queries
-
----
-
-## Objectives
-The system is designed to:
-
-- Store customer details
-- Manage restaurant information
-- Maintain food menu items
-- Track customer orders
-- Assign delivery agents
-- Record payment details
-- Generate business reports
 
 ---
 
@@ -163,6 +149,13 @@ The database can answer:
 - Which payments are still pending?
 
 ---
+
+## Data Analysis
+
+The project also includes analytical SQL queries to extract meaningful insights from the stored data.  
+These queries help evaluate business performance by analyzing customer spending patterns, restaurant revenue, popular menu items, delivery efficiency, payment trends, and order cancellations.  
+
+Using aggregate functions, joins, subqueries, and grouping operations, the database can be used not only for data storage but also for generating business intelligence that supports decision-making in a food delivery platform.
 
 ## relation diagram 
 <img width="1066" height="800" alt="Screenshot 2026-04-24 000805" src="https://github.com/user-attachments/assets/92cc75b3-1e9b-48ef-b55e-0c3081922e1a" />
