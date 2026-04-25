@@ -161,3 +161,7 @@ Using aggregate functions, joins, subqueries, and grouping operations, the datab
 <img width="1066" height="800" alt="Screenshot 2026-04-24 000805" src="https://github.com/user-attachments/assets/92cc75b3-1e9b-48ef-b55e-0c3081922e1a" />
 
 
+## query and their results
+<img width="574" height="463" alt="Screenshot 2026-04-25 070430" src="https://github.com/user-attachments/assets/77130880-eb35-423c-90d2-8d5d86e4b818" />
+
+<img width="522" height="484" alt="Screenshot 2026-04-25 065828" src="https://github.com/user-attachments/assets/313f19d9-83f1-4e10-8cbb-e21062590b5b" />
